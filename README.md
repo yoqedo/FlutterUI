@@ -10,4 +10,4 @@ When you like it support me and stay up to Date on Instagram: [@yoqedo](https://
 
 Chimpmusic-MusicPlayer
 
-<img src="FlutterUI/Chimpmusic/assets/1.png" width="250">
+<img src="Chimpmusic/assets/1.png" width="250"> <img src="Chimpmusic/assets/2.png" width="250"> <img src="Chimpmusic/assets/3.png" width="250">
